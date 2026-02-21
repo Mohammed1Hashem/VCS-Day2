@@ -36,3 +36,5 @@ now I am in hotfix4
 ----------------------------------------
 Now we are in main before creating branch bugfix1
 Now I am in bugfix1 
+----------
+in new => adding some words and commit
