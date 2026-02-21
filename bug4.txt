@@ -1,3 +1,6 @@
 main => 1st commit after creating bugf4 branch
 main => 2nd commit
 main => 3rd commit
+----------
+after returning from bugf4
+main => "1st commit after returning from bug4"
