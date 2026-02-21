@@ -2,4 +2,3 @@ main => 1st commit after creating bugf3 branch
 main => 2nd commit
 main => 3rd commit
 main => 4th commit
-main => 4th commit
