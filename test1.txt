@@ -23,3 +23,9 @@ I found txt from main here and I add on it
 This is main edition 21-2-2026 11:12
 before hotfix3 creation 
 
+After editin my hotf4 branch I returned and 
+I am trying to make conflict "edit in main after edit in hotf4"
+Now..There is changes in hotf4 and opposite to it there is changes on main.
+This is not extra edition in the branch..No it is independent changes in hotf4.
+So lets see what will happen
+
