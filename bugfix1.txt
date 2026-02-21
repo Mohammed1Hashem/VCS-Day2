@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is txt specific for bugfix1 branch
 Hi this is the only change I will do in main branch 
 Another change with a new commit(3rd commit in main).
+=======
+This is txt specific for bugfix1 branch
+>>>>>>> bugfix1
