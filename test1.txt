@@ -33,3 +33,6 @@ sorry but this =>before hotfix3 creation is false
 I ment thst =>before hotfix4 creation
 
 now I am in hotfix4
+----------------------------------------
+Now we are in main before creating branch bugfix1
+
