@@ -16,3 +16,6 @@ Line3 => hotfix branch
 ------------------------
 This is main edition 21-2-2026 10:47 am
 some txt here before creating hotfix2
+
+This is txt from hotfix2 10:50 am
+I found txt from main here and I add on it
