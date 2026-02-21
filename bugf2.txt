@@ -1,1 +1,4 @@
 Hi from main after creation of bugf2 branch
+
+--------
+Hi from main after 1st, 2nd and 3rd commits in bugf2
