@@ -10,3 +10,6 @@ here I want to merge this branch
 --------------------
 Changes : 
 Line1 => Base commit
+
+Line2 => hotfix branch
+Line3 => hotfix branch
