@@ -1,0 +1,2 @@
+some txt when I am in main branch 
+before 2nd merge with hotfix
