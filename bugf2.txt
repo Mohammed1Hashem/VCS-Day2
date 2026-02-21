@@ -1,4 +1,10 @@
 Hi from main after creation of bugf2 branch
 
+Hi from bugf2 branch I will write some here...
+jkdfjkdfnlkjkfljkfkljdklfnadkl
+
+adding txt => 2nd bug2 commit
+adding txt => 3rd bug2 commit
 --------
 Hi from main after 1st, 2nd and 3rd commits in bugf2
+---------
