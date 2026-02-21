@@ -13,3 +13,6 @@ Line1 => Base commit
 
 Line2 => hotfix branch
 Line3 => hotfix branch
+------------------------
+This is main edition 21-2-2026 10:47 am
+some txt here before creating hotfix2
